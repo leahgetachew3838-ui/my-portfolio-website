@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Welcome to My Portfolio</h1>
-    <p>Hello! I'm learning web development.</p>
+    <p>this portfolio shows my skills .</p>
 </body>
 </html>ite where i show my skill, knowledge and contact information.
